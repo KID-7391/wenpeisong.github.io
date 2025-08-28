@@ -87,8 +87,15 @@ Yang Liu, Qianqian Xu, **Peisong Wen**, Siran Dai, Qingming Huang. ACM Internati
 - *2024.01* Director’s Special Award, ICT, CAS. (中国科学院计算所所长特别奖)
 - *2023.10* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
 
+# 📖 Services
+- Reviewer of ICML 23/24/25
+- Reviewer of NeurIPS 23/24/25
+- Reviewer of ICLR 24/25
+- Reviewer of CVPR 23/24/25
+- PC Member of AAAI 24/25/26
+- Reviewer of IJCV
 
-# 📖 Educations
+# 🎓 Educations
 
 - *2020.09 - 2025.06*, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), Ph.D. in Computer Applied Technology.
 - *2016.09 - 2020.06*, Nankai University (NKU), Bachelor in Intelligent Science and Technology.
